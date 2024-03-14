@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fc87a34-0758-42d1-b81e-1e05bf525f92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TUGAS 1/PRAKTIKUM1_MUHAMMAD_THAREEQ_AD_DAKHIL_225150207111092.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PRAKTIKUM PPM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PRAKTIKUM PPM.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1fc87a34-0758-42d1-b81e-1e05bf525f92" name="Changes" comment="TUGAS 1">
+      <change afterPath="$PROJECT_DIR$/TUGAS 2/225150201111046_Muhammad_Harish_Rahmatullah_BAB_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TUGAS 2/Copy_of_Praktikum_2_Soal.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TUGAS 2/iris_missing.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TUGAS 1/Another_copy_of_Praktikum_1_Soal.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TUGAS 1/Copy_of_Praktikum_1_Soal.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TUGAS 1/PRAKTIKUM1_MUHAMMAD_THAREEQ_AD_DAKHIL_225150207111092.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TUGAS 1/PRAKTIKUM1_MUHAMMAD_THAREEQ_AD_DAKHIL_225150207111092.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -50,12 +50,13 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acern\PycharmProjects\PRAKTIKUM PPM\TUGAS 2" />
       <recent name="C:\Users\acern\PycharmProjects\PRAKTIKUM PPM\TUGAS 1" />
     </key>
   </component>
@@ -77,8 +78,23 @@
       <workItem from="1709275041714" duration="248000" />
       <workItem from="1709276050521" duration="639000" />
       <workItem from="1709276993397" duration="1311000" />
-      <workItem from="1709280159393" duration="3178000" />
+      <workItem from="1709280159393" duration="3403000" />
+      <workItem from="1709291317489" duration="107000" />
+      <workItem from="1709515357830" duration="177000" />
+      <workItem from="1710421670979" duration="42000" />
+      <workItem from="1710425276717" duration="1650000" />
+      <workItem from="1710427162235" duration="3239000" />
+      <workItem from="1710430604454" duration="399000" />
     </task>
+    <task id="LOCAL-00001" summary="TUGAS 1">
+      <option name="closed" value="true" />
+      <created>1709287470572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709287470572</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="TUGAS 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="TUGAS 1" />
   </component>
 </project>
